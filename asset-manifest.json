@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/leonardo-davidoff-generator/static/css/main.26479f81.css",
+    "main.js": "/leonardo-davidoff-generator/static/js/main.e92f749c.js",
+    "static/js/787.105043c8.chunk.js": "/leonardo-davidoff-generator/static/js/787.105043c8.chunk.js",
+    "static/media/leonardo.png": "/leonardo-davidoff-generator/static/media/leonardo.1b888c57b8287016a48f.png",
+    "static/media/coffee-img-2.svg": "/leonardo-davidoff-generator/static/media/coffee-img-2.a5deed5424d0a211f851.svg",
+    "index.html": "/leonardo-davidoff-generator/index.html",
+    "static/media/coffee-img-1.svg": "/leonardo-davidoff-generator/static/media/coffee-img-1.de44acee1e10a916bf13.svg",
+    "main.26479f81.css.map": "/leonardo-davidoff-generator/static/css/main.26479f81.css.map",
+    "main.e92f749c.js.map": "/leonardo-davidoff-generator/static/js/main.e92f749c.js.map",
+    "787.105043c8.chunk.js.map": "/leonardo-davidoff-generator/static/js/787.105043c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26479f81.css",
+    "static/js/main.e92f749c.js"
+  ]
+}
