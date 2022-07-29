@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/leonardo-davidoff-generator/static/css/main.d749016d.css",
-    "main.js": "/leonardo-davidoff-generator/static/js/main.ac564523.js",
+    "main.js": "/leonardo-davidoff-generator/static/js/main.0721e941.js",
     "static/js/787.105043c8.chunk.js": "/leonardo-davidoff-generator/static/js/787.105043c8.chunk.js",
     "static/media/leonardo.png": "/leonardo-davidoff-generator/static/media/leonardo.2a95c90e3d7ef7f48fb5.png",
     "static/media/instagram.svg": "/leonardo-davidoff-generator/static/media/instagram.f37b4a2cf9e7d59950d5967e3e5aa7be.svg",
@@ -9,11 +9,11 @@
     "static/media/coffee-img-1.svg": "/leonardo-davidoff-generator/static/media/coffee-img-1.7fb5873cb180000f6417.svg",
     "index.html": "/leonardo-davidoff-generator/index.html",
     "main.d749016d.css.map": "/leonardo-davidoff-generator/static/css/main.d749016d.css.map",
-    "main.ac564523.js.map": "/leonardo-davidoff-generator/static/js/main.ac564523.js.map",
+    "main.0721e941.js.map": "/leonardo-davidoff-generator/static/js/main.0721e941.js.map",
     "787.105043c8.chunk.js.map": "/leonardo-davidoff-generator/static/js/787.105043c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d749016d.css",
-    "static/js/main.ac564523.js"
+    "static/js/main.0721e941.js"
   ]
 }
