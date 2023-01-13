@@ -1,6 +1,6 @@
 
 # My alter ego's golden thought generator
-Aplikacja powstała w Reactcie pozwał na wyświetla postacie z API rickAndMorty oraz wyszukiwanie postaci z aktualnej strony po imieniu.
+A simple page that shows my golden thoughts
 [Podgląd](https://tomaszjader.github.io/rick-and-morty-react/)
 ## Project launch
 ```sh
