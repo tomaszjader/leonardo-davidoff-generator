@@ -6,4 +6,5 @@ A simple page that shows my golden thoughts
 ```sh
 npm install
 npm run builld
+npm run gh-pages
 ```
